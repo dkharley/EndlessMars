@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu.unity
+  - enabled: 1
+    path: Assets/dkharley_scene.unity
+  - enabled: 1
+    path: Assets/Detonator Explosion Framework/TestScene/Detonator-TestWall.unity
+  - enabled: 1
+    path: Assets/ControlInfo.unity
+  - enabled: 1
+    path: Assets/Credits.unity
